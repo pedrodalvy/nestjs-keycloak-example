@@ -42,3 +42,7 @@ Existem 4 metodos no controller:
 - `GET http://localhost:3000/user`: metodo getUser.
 - `GET http://localhost:3000/admin`: metodo getAdmin.
 - `GET http://localhost:3000/all`: metodo getAll.
+
+## Referencias
+- [Secure NestJs Rest API with Keycloak](https://medium.com/devops-dudes/secure-nestjs-rest-api-with-keycloak-745ef32a2370)
+- [API login and JWT token generation using Keycloak](https://developers.redhat.com/blog/2020/01/29/api-login-and-jwt-token-generation-using-keycloak#set_up_a_client)
